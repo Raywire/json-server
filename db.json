@@ -1,0 +1,85 @@
+{
+  "receipts": [
+    {
+      "id": 1,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management ",
+      "ReceiptNumber": "#24590",
+      "date": "2019-07-01T06:51:46.357Z",
+      "amount": 3500,
+      "userId": 1878
+    },
+    {
+      "id": 2,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management",
+      "ReceiptNumber": "#24591",
+      "date": "2019-07-02T06:51:46.357Z",
+      "amount": 3600,
+      "userId": 1878
+    },
+    {
+      "id": 3,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management",
+      "ReceiptNumber": "#24592",
+      "date": "2019-07-03T06:51:46.357Z",
+      "amount": 3700,
+      "userId": 1878
+    },
+    {
+      "id": 4,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management",
+      "ReceiptNumber": "#24593",
+      "date": "2019-07-04T06:51:46.357Z",
+      "amount": 3800,
+      "userId": 1878
+    },
+    {
+      "id": 5,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management ",
+      "ReceiptNumber": "#24594",
+      "date": "2019-07-05T06:51:46.357Z",
+      "amount": 3900,
+      "userId": 1878
+    },
+    {
+      "id": 6,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management ",
+      "ReceiptNumber": "#24595",
+      "date": "2019-07-06T06:51:46.357Z",
+      "amount": 4000,
+      "userId": 1878
+    },
+    {
+      "id": 7,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management ",
+      "ReceiptNumber": "#24596",
+      "date": "2019-07-07T06:51:46.357Z",
+      "amount": 4500,
+      "userId": 1878
+    },
+    {
+      "id": 8,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management",
+      "ReceiptNumber": "#24597",
+      "date": "2019-07-08T17:16:54.308Z",
+      "amount": 5000,
+      "userId": 1878
+    },
+    {
+      "id": 9,
+      "itemPurchase": "Purchase of publication",
+      "title": "CRV Dairy Management Guide Young Stock Management",
+      "ReceiptNumber": "#24598",
+      "date": "2019-07-09T17:16:54.308Z",
+      "amount": 5500,
+      "userId": 1879
+    }
+  ]
+}
